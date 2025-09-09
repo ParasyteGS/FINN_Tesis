@@ -1,0 +1,15 @@
+{
+  "Defaults": {},
+  "MVAU_hls_0": {
+    "preferred_impl_style": ""
+  },
+  "MVAU_hls_1": {
+    "preferred_impl_style": ""
+  },
+  "MVAU_hls_2": {
+    "preferred_impl_style": ""
+  },
+  "MVAU_rtl_0": {
+    "preferred_impl_style": ""
+  }
+}
